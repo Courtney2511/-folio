@@ -1,20 +1,13 @@
 ---
-layout: post
+layout: page
 title: Photobomb
 description:
 img: /img/12.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+**Assignment**:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+Develop a RESTful Python/Flask application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
 
 
 <div class="img_row">
@@ -23,17 +16,33 @@ To give your project a background in the portfolio page, just add the img tag to
 	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Photobomb screenshots
 </div>
+
+
+**Project Details**:  
+
+<a href="http://photobomb.courtneynoonan.com">Photobomb</a> is a photo sharing application where users can upload a link to a photo along with a title and description for it, as well as associate the photo with a category.  Photos on the site can be viewed by anyone, but to be able to add a photo you must be a user.  Users can create an account either through the application, or through integration with Facebook Login.  Only photo owners can edit or delete the photo once it has been added to the site.
+
+The project required that I implement one API endpoint for an arbitrary item in the catalog.  This inspired me to take the requirement a little bit further and serve all the item data from a python API application to be consumed by a React front-end application.  As I had no previous experience with React, this project as required that I self learn React along with Redux for state management.
+
+**Technologies**:
+
+* Python 2.7
+* Flask
+* React.js
+* Redux
+* HTML
+* CSS
+
+View the code on <a href="https://github.com/Courtney2511/item_catalogue">Github</a>.
+
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	This image can also have a caption. It's like magic.
 </div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
@@ -45,11 +54,3 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 <br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
