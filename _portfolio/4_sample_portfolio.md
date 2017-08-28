@@ -1,21 +1,13 @@
 ---
-layout: post
-title: Project
-description: a project with a background image
-img: /img/2.jpg
+layout: page
+title: Sample Portflio
+description:
+img:
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+**Assignment**:
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+Build a portfolio website with HTML and CSS from the provided mockup. Website must be responsive and include images, description and links to projects.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
@@ -29,11 +21,19 @@ To give your project a background in the portfolio page, just add the img tag to
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+**Project Details**:
 
+MultiBlog is a basic multi-user blogging site that allows users to create accounts and then share blog posts.  Cookies are used for user authentication.  As an extra in the assignment, I added the ability for users to 'like' each others posts.
+
+**Technologies**:
+
+* HTML
+* CSS
+
+View the code on <a href="https://github.com/Courtney2511/portfolio_assignment">Github</a>.
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
@@ -47,7 +47,7 @@ You can also put regular text between your rows of images. Say you wanted to wri
 <br/><br/><br/>
 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
 
 	<div class="img_row">
 	  <img class="col two" src="/img/6.jpg"/>
