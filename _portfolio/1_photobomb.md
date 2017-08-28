@@ -11,9 +11,8 @@ Develop a RESTful Python/Flask application that provides a list of items within 
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/photobomb/photobomb.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/photobomb/photobomb-photo.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/photobomb/photobomb-gallery1.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/photobomb/photobomb.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/photobomb/photobomb-photo.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Photobomb screenshots

@@ -7,9 +7,11 @@ img:
 
 **Assignment**:
 
-Design and develop a Kickstarter clone.  
+Design the architecture for and develop a Kickstarter clone with your group.  
 
 Minimum expectation for the project: Projects have deadlines, and expire when that deadline is reached, projects can only be deleted by the project owner, and only if it has not raised any money, and projects can continue to receive funding past their funding goal.
+
+***Deadline*** 1 week
 
 ** Learning objectives **
 
@@ -20,25 +22,19 @@ Minimum expectation for the project: Projects have deadlines, and expire when th
  * To learn how to prioritize user stories in order to deliver a minimal viable product
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/homepage.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/project-details.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/user-profile.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic.
+	homepage, project detail, and user profile screenshots from CrowdFunder
 </div>
 
 **Project Details**:  
 
 View the code on <a href="https://github.com/Courtney2511/crowdfunder">Github</a>.
 
-Describe the project here
+CrowdFunder is a crowd funding site.  Users can create an account and 'back' the projects that they are interested in at a variety of 'levels' that are defined by project owners. Users have a profile page that displays any projects they have created as well as any projects they are backing along with their information.
 
 
 **Technologies**:
@@ -48,14 +44,5 @@ Describe the project here
 * Javascript
 * HTML
 * CSS
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
 
 <br/><br/><br/>
