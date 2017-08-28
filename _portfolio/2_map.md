@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Map Project
-description:
+description: Udacity FSND Neighborhood Map Project
 img: /img/2.jpg
 ---
 

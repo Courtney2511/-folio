@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sample Portfolio
-description: Udacity FSWD Portfolio Project
+description: Udacity FSND Portfolio Project
 img:
 ---
 

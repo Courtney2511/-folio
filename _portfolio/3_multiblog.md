@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MultiBlog
-description:
+description: Udacity FSND Multi User Blog Project
 img:
 ---
 

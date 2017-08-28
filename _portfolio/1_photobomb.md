@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photobomb
-description:
+description: Udacity FSND Item Catalog Project
 img: /img/12.jpg
 ---
 
@@ -35,13 +35,6 @@ The project required that I implement one API endpoint for an arbitrary item in 
 * CSS
 
 View the code on <a href="https://github.com/Courtney2511/item_catalogue">Github</a>.
-
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic.
-</div>
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/photobomb/photobomb.png" alt="" title="example image"/>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CrowdFunder
-description: KickStarter clone
+description: Bitmaker KickStarter clone
 img:
 ---
 
