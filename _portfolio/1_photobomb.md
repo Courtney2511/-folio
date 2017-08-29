@@ -11,11 +11,10 @@ Develop a RESTful Python/Flask application that provides a list of items within 
 
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/photobomb/photobomb.png" alt="" title="example image"/>
-	<img class="col three" src="{{ site.baseurl }}/img/photobomb/photobomb-photo.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/photobomb/photobomb.png" alt="" title="photo example"/>
 </div>
 <div class="col three caption">
-	Photobomb screenshots
+	Photo Post example
 </div>
 
 
@@ -37,11 +36,11 @@ The project required that I implement one API endpoint for an arbitrary item in 
 View the code on <a href="https://github.com/Courtney2511/item_catalogue">Github</a>.
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/photobomb/photobomb.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/photobomb/photobomb-photo.png" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/photobomb/photobomb.png" alt="" title="home screen"/>
+	<img class="col one" src="{{ site.baseurl }}/img/photobomb/photobomb-photo.png" alt="" title="photo example"/>
 </div>
 <div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	Photobomb screenshots
 </div>
 
 

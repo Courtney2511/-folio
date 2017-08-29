@@ -10,14 +10,14 @@ img:
 Build a portfolio website with HTML and CSS from the provided mockup. Website must be responsive and include images, description and links to projects.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/portfolio/main.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/portfolio/main.png" alt="" title="sample header"/>
 </div>
 <div class="col three caption">
-	Sample Portfolio Screenshot
+	Sample Portfolio header
 </div>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/portfolio/modal.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/portfolio/modal.png" alt="" title="example modal"/>
 </div>
 <div class="col three caption">
 	Sample Portfolio modal example

@@ -26,21 +26,21 @@ Our group partnered with Starts With Me, a youth mental health advocacy group.  
 Visit the project <a href="https://protected-badlands-39928.herokuapp.com" target="_blank">here</a> or check out the code on <a href="https://github.com/Courtney2511/startswithme" target="_blank">Github</a>.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/soom/login.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/soom/login.png" alt="" title="login screen"/>
 </div>
 <div class="col three caption">
 	State of Our Mind log in screen
 </div>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/soom/newsfeed.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/soom/newsfeed.png" alt="" title="user feed page"/>
 </div>
 <div class="col three caption">
 	State of Our Mind log central feed page
 </div>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/soom/profile.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/soom/profile.png" alt="" title="user profile"/>
 </div>
 <div class="col three caption">
 	State of Our Mind user profile page

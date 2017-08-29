@@ -22,9 +22,9 @@ Minimum expectation for the project: Projects have deadlines, and expire when th
  * To learn how to prioritize user stories in order to deliver a minimal viable product
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/homepage.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/project-details.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/user-profile.png" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/homepage.png" alt="" title="main pa"/>
+	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/project-details.png" alt="" title="example project"/>
+	<img class="col one" src="{{ site.baseurl }}/img/crowdfunder/user-profile.png" alt="" title="user profile"/>
 </div>
 <div class="col three caption">
 	homepage, project detail, and user profile screenshots from CrowdFunder
