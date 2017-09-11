@@ -2,7 +2,7 @@
 layout: page
 title: Photobomb
 description: Udacity FSND Item Catalog Project
-img: /img/12.jpg
+img: /img/code2.jpg
 ---
 
 **Assignment**:

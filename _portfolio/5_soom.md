@@ -2,7 +2,7 @@
 layout: page
 title: State of Our Mind
 description: Bitmaker final project
-img: /img/1.jpg
+img: /img/code.jpg
 ---
 
 **Assignment**
