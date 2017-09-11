@@ -7,11 +7,11 @@ img:
 
 **Assignment**:
 
-Design the architecture for and develop a Kickstarter clone with your group.  
+Design the architecture for and develop a Kickstarter clone with your group - deadline: 1 week  
 
 Minimum expectation for the project: Projects have deadlines, and expire when that deadline is reached, projects can only be deleted by the project owner, and only if it has not raised any money, and projects can continue to receive funding past their funding goal.
 
-***Deadline*** 1 week
+
 
 ** Learning objectives **
 
