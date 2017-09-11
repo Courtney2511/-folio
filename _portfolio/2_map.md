@@ -2,7 +2,7 @@
 layout: page
 title: Map Project
 description: Udacity FSND Neighbourhood Map Project
-img: /img/2.jpg
+img: /img/keyboard.jpg
 ---
 
 **Assignment**:
